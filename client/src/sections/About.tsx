@@ -147,7 +147,7 @@ export const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-5 gap-8 lg:grid-cols-3">
         <Card className="h-[320px] p-0 flex flex-col md:col-span-3 lg:col-span-2">
             <CardHeader title="Beyond the Code" description="Expolre my interests and hobbies beyond the digital realm." className="px-6 pt-6"/>
-          <div className="relative flex-1" ref={constraintRef}>
+          <div className="relative flex-1 h-full w-full overflow-hidden" ref={constraintRef}>
             {hobbies.map(hobby => (
               <motion.div key={hobby.title} className="inline-flex items-center gap-2 px-6 bg-gradient-to-r from-emerald-300 to-sky-400 rounded-full py-1.5 absolute" style={{
                 left: hobby.left,
