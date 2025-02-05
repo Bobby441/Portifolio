@@ -15,8 +15,7 @@ export const ContactSection = () => {
               <p className='text-sm md:text-base mt-2'>Ready to bring your next project to life? Let&apos;s connect and discuss how I can achieve your goals.</p>
             </div>
             <div>
-              <a type='button' href="https://mail.google.com/mail/?view=cm&fs=1&to=saitirupathimoru2129@gmail.com
-" target='_blank' rel="noopener noreferrer" className='text-white bg-gray-900 inline-flex items-center px-6 h-12 rounded-xl gap-2 w-max border border-gray-900'>
+              <a type='button' href="https://mail.google.com/mail/?view=cm&fs=1&to=saitirupathimoru2129@gmail.com" target='_blank' rel="noopener noreferrer" className='text-white bg-gray-900 inline-flex items-center px-6 h-12 rounded-xl gap-2 w-max border border-gray-900'>
                 <span className='font-semibold'>Contact Me</span>
                 <ArrowUpRightIcon className='size-4' />
               </a>
