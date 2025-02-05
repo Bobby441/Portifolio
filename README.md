@@ -4,7 +4,7 @@ Welcome to the Single Page Dev Portfolio Resource Bundle! This package contains 
 
 ## Contents
 
-This bundle includes two main folders:
+This bundle includes one main folder:
 
 2. `client/` - Contains the complete code for portfolio project
 
